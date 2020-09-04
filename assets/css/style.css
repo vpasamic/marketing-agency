@@ -132,6 +132,9 @@ section {
     max-width: 150px;
 }
 
+section h1 {
+    display:none
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
